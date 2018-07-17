@@ -17,6 +17,9 @@ Open the ```index.html``` file in your browser
 - [React.js](https://reactjs.org/)
 - [Flux](https://facebook.github.io/flux/)
 
+# Screenshot
+![Screenshot](https://raw.githubusercontent.com/nmanikumar5/simple-checkout-system-demo/master/Screenshots/Screen%20Shot%202018-07-17%20at%209.33.43%20AM.png)
+
 # Author
 **ManiKumar**
 
